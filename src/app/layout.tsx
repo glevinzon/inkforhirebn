@@ -3,6 +3,7 @@ import { Inter } from "next/font/google";
 import Header from "@/app/components/Header";
 import HeaderMobile from "@/app/components/HeaderMobile";
 import Script from "next/script";
+import Footer from "./components/Footer";
 
 // import "./globals.css";
 
@@ -37,7 +38,7 @@ export default function RootLayout({
         <Header />
         <HeaderMobile />
         {children}
-
+        <Footer />
         <Script src="js/vendor/modernizr-3.5.0.min.js"></Script>
         <Script src="js/vendor/jquery-3.6.0.min.js"></Script>
         <Script src="js/popper.min.js"></Script>
