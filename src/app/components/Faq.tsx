@@ -29,7 +29,7 @@ const Faq = () => {
                         aria-expanded="false"
                         aria-controls="collapseOne"
                       >
-                        In non leo vel nunc elementum conguen non leo ?
+                        I want to order. How do I get started?
                       </button>
                     </h2>
                   </div>
@@ -40,10 +40,9 @@ const Faq = () => {
                     data-parent="#accordionExample"
                   >
                     <div className="card-body">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip
+                      You can contact us thru the folowing lines ni your most
+                      convenient time... © +673 8972768 & +673 2423008 M
+                      iseuljinbn@gmail.com
                     </div>
                   </div>
                 </div>
@@ -58,7 +57,7 @@ const Faq = () => {
                         aria-expanded="true"
                         aria-controls="collapseTwo"
                       >
-                        Donec semper nibh at facilisis interdum ?
+                        I want to see an actual samples. Where should I go?
                       </button>
                     </h2>
                   </div>
@@ -69,10 +68,9 @@ const Faq = () => {
                     data-parent="#accordionExample"
                   >
                     <div className="card-body">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip
+                      You can visit our showroom at: © Unit 9 (corner unit),
+                      Ground Floor, Scout Headouarters Building, Kg Mata-Mata,
+                      Jalan Gadong, BE 41 19, Brunei Darussalam PRINTING SHOP
                     </div>
                   </div>
                 </div>
@@ -87,7 +85,8 @@ const Faq = () => {
                         aria-expanded="false"
                         aria-controls="collapseThree"
                       >
-                        Aliquam nisl elit, egestas nec pharetra nec sed ?
+                        How do you compareyour pricing range with other printing
+                        company?
                       </button>
                     </h2>
                   </div>
@@ -98,10 +97,43 @@ const Faq = () => {
                     data-parent="#accordionExample"
                   >
                     <div className="card-body">
-                      Lorem ipsum dolor sit amet, consectetur adipisicing elit,
-                      sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                      ullamco laboris nisi ut aliquip
+                      We are doing our best that our pricing stays around the
+                      market price margin, making sure not to burden our valued
+                      clients onto over priced products. Nonetheless, we are
+                      very particular on giving our customer the satisfaction of
+                      our service without compromising the Quality of the
+                      products that we offer. However, as to hte saying,
+                      "Quality si Expensive" we stil aims ot provide the best
+                      Quality products at al times. Hence, our pricing si best
+                      describe as incredibly reasonable.
+                    </div>
+                  </div>
+                </div>
+                <div className="card">
+                  <div className="card-header" id="headingFour">
+                    <h2 className="mb-0">
+                      <button
+                        className="faq-btn collapsed"
+                        type="button"
+                        data-toggle="collapse"
+                        data-target="#collapseFour"
+                        aria-expanded="false"
+                        aria-controls="collapseFour"
+                      >
+                        What is the mode of payment the company use?
+                      </button>
+                    </h2>
+                  </div>
+                  <div
+                    id="collapseFour"
+                    className="collapse"
+                    aria-labelledby="headingFour"
+                    data-parent="#accordionExample"
+                  >
+                    <div className="card-body">
+                      Our company accepts CASH, POCKET APP online transfer, BIBD
+                      online transfer and TAFIS 2.0 Payment for Government
+                      Sectors.
                     </div>
                   </div>
                 </div>

@@ -15,31 +15,36 @@ const Footer = () => {
             <div className="col-xl-4 col-lg-4 col-sm-6">
               <div className="footer-widget mb-30">
                 <div className="f-widget-title mb-30">
-                  <img src="img/logo/f_logo.png" alt="img" />
+                  <img src="img/ink-for-hire/logo.png" alt="img" />
                 </div>
                 <div className="f-contact">
                   <ul>
                     <li>
                       <i className="icon fal fa-phone"></i>
                       <span>
-                        1800-121-3637
+                        +673 2423008
                         <br />
-                        +91-7052-101-786
+                        +673 8972768
                       </span>
                     </li>
                     <li>
                       <i className="icon fal fa-envelope"></i>
                       <span>
-                        <a href="mailto:info@example.com">info@example.com</a>
+                        <a href="mailto:inkforhirebn@gmail.com">
+                          inkforhirebn@gmail.com
+                        </a>
                         <br />
-                        <a href="mailto:help@example.com">help@example.com</a>
+                        <a href="mailto:iseuljinbn@gmail.com">
+                          iseuljinbn@gmail.com
+                        </a>
                       </span>
                     </li>
                     <li>
                       <i className="icon fal fa-map-marker-check"></i>
                       <span>
-                        1247/Plot No. 39, 15th Phase,
-                        <br /> LHB Colony, Kanpur
+                        Unit 9, Scout Headquarters Building,
+                        <br /> Kampung Mata-Mata, Jalan Gadong,
+                        <br /> BE4119, Brunei Darussalam
                       </span>
                     </li>
                   </ul>
@@ -161,7 +166,7 @@ const Footer = () => {
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
-              Copyright © 2021 Kasuua. All rights reserved.
+              Copyright © 2024 Ink For Hire. All rights reserved.
             </div>
             <div className="col-lg-6 text-right text-xl-right">
               <div className="footer-social">

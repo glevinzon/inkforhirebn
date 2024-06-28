@@ -22,7 +22,7 @@ const AboutArea = () => {
               data-delay=".4s"
             >
               <div className="about-title second-title pb-25">
-                <h2>We Create Space For A Happy Life</h2>
+                <h2>Your Local Partner in Dynamic Advertising Solutions</h2>
                 <div className="line">
                   {" "}
                   <img src="img/bg/circle_left.png" alt="circle_right" />
@@ -30,22 +30,17 @@ const AboutArea = () => {
               </div>
 
               <p>
-                Vivamus mattis ipsum vitae imperdiet eleifend. Nunc scelerisque
-                feugiat turpis, et tempor tellus porta vitae. Aenean hendrerit,
-                libero sed viverra auctor.
-              </p>
-              <p>
-                Morbi pretium, nisl sit amet placerat imperdiet, enim massa
-                venenatis purus, in tincidunt lorem augue ac nunc. Pellentesque
-                risus massa, vulputate cursus tortor quis, iaculis maximus
-                neque.Aenean hendrerit, libero sed viverra auctor.
-              </p>
-              <p>
-                {" "}
-                <img src="img/features/signature.png" alt="img" />{" "}
-              </p>
-              <p>
-                <strong>Romanisa Samu</strong>
+                Iseuljin Enterprise is a local advertising company here in
+                Brunei. Our business caters small to large scale advertising
+                projects. We are driven to produce quality, reliable and
+                economical products to meet the advertising needs of local
+                businesses and local economy. We specialize in designing,
+                customize printing, events and corporate essentials supplies,
+                signages and more. As we continue to grow, we foresee a wide
+                range of market to serve and be able to promote economy’s growth
+                thru our valued clients using our products as a catalyst for
+                their businesses success. We are committed to continue as a
+                company that is trustworthy. It’s our pleasure to serve you!
               </p>
             </div>
           </div>
