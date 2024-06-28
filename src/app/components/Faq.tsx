@@ -35,7 +35,7 @@ const Faq = () => {
                   </div>
                   <div
                     id="collapseOne"
-                    className="collapse"
+                    className="collapse show"
                     aria-labelledby="headingOne"
                     data-parent="#accordionExample"
                   >
@@ -63,7 +63,7 @@ const Faq = () => {
                   </div>
                   <div
                     id="collapseTwo"
-                    className="collapse show"
+                    className="collapse"
                     aria-labelledby="headingTwo"
                     data-parent="#accordionExample"
                   >
@@ -85,8 +85,8 @@ const Faq = () => {
                         aria-expanded="false"
                         aria-controls="collapseThree"
                       >
-                        How do you compareyour pricing range with other printing
-                        company?
+                        How do you compare your pricing range with other
+                        printing company?
                       </button>
                     </h2>
                   </div>
@@ -105,7 +105,7 @@ const Faq = () => {
                       products that we offer. However, as to hte saying,
                       &quot;Quality si Expensive&quot; we stil aims ot provide
                       the best Quality products at al times. Hence, our pricing
-                      si best describe as incredibly reasonable.
+                      is best describe as incredibly reasonable.
                     </div>
                   </div>
                 </div>
