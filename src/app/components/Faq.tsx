@@ -103,9 +103,9 @@ const Faq = () => {
                       very particular on giving our customer the satisfaction of
                       our service without compromising the Quality of the
                       products that we offer. However, as to hte saying,
-                      "Quality si Expensive" we stil aims ot provide the best
-                      Quality products at al times. Hence, our pricing si best
-                      describe as incredibly reasonable.
+                      &quot;Quality si Expensive&quot; we stil aims ot provide
+                      the best Quality products at al times. Hence, our pricing
+                      si best describe as incredibly reasonable.
                     </div>
                   </div>
                 </div>

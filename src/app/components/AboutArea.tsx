@@ -37,10 +37,11 @@ const AboutArea = () => {
                 businesses and local economy. We specialize in designing,
                 customize printing, events and corporate essentials supplies,
                 signages and more. As we continue to grow, we foresee a wide
-                range of market to serve and be able to promote economy’s growth
-                thru our valued clients using our products as a catalyst for
-                their businesses success. We are committed to continue as a
-                company that is trustworthy. It’s our pleasure to serve you!
+                range of market to serve and be able to promote economy&apos;s
+                growth thru our valued clients using our products as a catalyst
+                for their businesses success. We are committed to continue as a
+                company that is trustworthy. It&apos;s our pleasure to serve
+                you!
               </p>
             </div>
           </div>
